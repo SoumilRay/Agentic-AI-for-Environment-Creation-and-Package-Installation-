@@ -93,7 +93,7 @@ The tool will:
   matplotlib
   Why: Useful for plotting graphs
 
-Install selenium? [Y/n]:
+Install matplotlib? [Y/n]:
 ```
 
 5. **Installation completes**:
