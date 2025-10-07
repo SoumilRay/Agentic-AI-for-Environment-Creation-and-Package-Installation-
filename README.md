@@ -74,10 +74,10 @@ python -m src.main install
 
 2. **Provide project details**:
 ```
-📦 Project name: Data Project
-📝 Project description: A project to practice data wrangling and visualization
-📁 Project location: ../DataProject
-📚 Packages: numpy pandas
+Project name: Data Project
+Project description: A project to practice data wrangling and visualization
+Project location: ../DataProject
+Packages: numpy pandas
 ```
 
 3. **Review recommendations**:
